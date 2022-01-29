@@ -11,6 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2"
   }
 }
